@@ -4,7 +4,7 @@ Hello, here are my ctf writeups 🐹
 - [Horoscopes](./downunderCTF%202025/horoscopes/horoscopes.md)
 - [Wiki](./downunderCTF%202025/wiki/wiki.md)
 - [Trusted](./downunderCTF%202025/trusted/trusted.md)
-
+- [Scrapbooking](./downunderCTF%202025/scrapbooking/scrapbooking.md)
 
 ### [L3AK CTF 2025](./L3AK%20CTF%202025/)
 - [Beneath the Surface](./L3AK%20CTF%202025/Beneath%20the%20Surface/beneath-the-surface.md)
