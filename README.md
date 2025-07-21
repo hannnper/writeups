@@ -1,5 +1,11 @@
 Hello, here are my ctf writeups 🐹
 
+### [downunderCTF 2025](./downunderCTF%202025/)
+- [Horoscopes](./downunderCTF%202025/horoscopes/horoscopes.md)
+- [Wiki](./downunderCTF%202025/wiki/wiki.md)
+- [Trusted](./downunderCTF%202025/trusted/trusted.md)
+
+
 ### [L3AK CTF 2025](./L3AK%20CTF%202025/)
 - [Beneath the Surface](./L3AK%20CTF%202025/Beneath%20the%20Surface/beneath-the-surface.md)
 - [Flag L3ak](./L3AK%20CTF%202025/Flag%20L3ak/flag-l3ak.md)
